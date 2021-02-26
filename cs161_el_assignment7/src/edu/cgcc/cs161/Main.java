@@ -5,6 +5,7 @@ package edu.cgcc.cs161;
 //Class: CS161
 //Date: 2/25/2021
 //Description: Simply a shell for the creating the method and displaying message passing
+// all relevant code is in the Scheduler class
 
 public class Main {
 
